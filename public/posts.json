@@ -1,0 +1,20 @@
+[
+    {
+        "posts": [
+            {
+                "title": "Primeiro Post",
+                "slug": "primeiro-post",
+                "date": "2024-06-01",
+                "summary": "Este é o resumo do meu primeiro post.",
+                "tags": ["introdução", "primeiro"]
+            },
+            {
+                "title": "Segundo Post",
+                "slug": "segundo-post",
+                "date": "2024-06-15",
+                "summary": "Este é o resumo do meu segundo post.",
+                "tags": ["continuação", "segundo"]
+            }
+        ]
+    }
+]
